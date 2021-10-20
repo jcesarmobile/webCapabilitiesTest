@@ -1,0 +1,6 @@
+{
+  "appId": "es.test.webcap",
+  "appName": "webCap",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
